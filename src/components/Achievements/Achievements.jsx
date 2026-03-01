@@ -24,7 +24,7 @@ const achievements = [
     icon: '🎯',
     title: 'Pre-Finalist — Myntra HackerRamp: We for She 2024',
     subtitle: 'Selected in the top 70 teams nationally for the Myntra HackerRamp hackathon',
-    link: 'https://drive.google.com/file/d/1IdYD4pO26ODwToCL0q9Ii8zU9tfEJDbW/view?usp=sharing',          // ← paste your Myntra certificate link here
+    link: 'https://drive.google.com/file/d/1lSCDkfmjHpurNGvG1CIiQNpLDvF3M1v0/view?usp=sharing',          // ← paste your Myntra certificate link here
     linkLabel: 'Certificate ↗',
   },
   {
