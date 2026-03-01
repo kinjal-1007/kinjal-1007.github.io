@@ -1,0 +1,41 @@
+.activity {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.achieve {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.achieve-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.achieve-label {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.achieve-sub {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+@media screen and (max-width: 600px) {
+  .activity {
+    gap: 2rem;
+  }
+}
