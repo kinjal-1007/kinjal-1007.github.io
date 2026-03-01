@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.738585ae.css",
+    "main.js": "/Portfolio/static/js/main.d7790862.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.39b8b2f0367df7f8db7c.jpg",
+    "static/media/leetcode.png": "/Portfolio/static/media/leetcode.7652693d7c208b98365e.png",
+    "static/media/myntra.jpg": "/Portfolio/static/media/myntra.aad5b828057be228299d.jpg",
+    "static/media/coding1.jpg": "/Portfolio/static/media/coding1.23f1125e1c6c7f48b6fd.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.738585ae.css.map": "/Portfolio/static/css/main.738585ae.css.map",
+    "main.d7790862.js.map": "/Portfolio/static/js/main.d7790862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738585ae.css",
+    "static/js/main.d7790862.js"
+  ]
+}
