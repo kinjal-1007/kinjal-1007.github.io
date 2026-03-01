@@ -1,6 +1,6 @@
 # Kinjal Gupta — Portfolio
 
-Personal portfolio website built with React. Live at **https://kinjal-1007.github.io/Portfolio**
+Personal portfolio website built with React. Live at **https://kinjal-1007.github.io/**
 
 ---
 
@@ -52,7 +52,7 @@ This automatically:
 1. Builds the production bundle (`npm run build`)
 2. Pushes the `build/` folder to the `gh-pages` branch on GitHub
 
-Your site updates at **https://kinjal-1007.github.io/Portfolio** within ~1–2 minutes.
+Your site updates at **https://kinjal-1007.github.io/** within ~1–2 minutes.
 
 > **First time only:** Go to your repo on GitHub → Settings → Pages → set Branch to `gh-pages` → Save.
 
